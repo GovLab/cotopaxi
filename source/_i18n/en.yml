@@ -1,9 +1,9 @@
 global:
-  title: "Smarter Crowdsourcing: Zika"
-  home: Home 
+  title: "Smarter Crowdsourcing: Cotopaxi"
+  home: Home
   about: About
-  team: Team 
-  topics: Topics 
+  team: Team
+  topics: Topics
   recommendations: Recommendations
   map: Explore the Map
   blog: Blog
@@ -18,7 +18,7 @@ index:
     imagine1: Imagine if those creative individuals could speak directly to the institutions with the power and responsibility for delivering new policies and services.
     imagine2: Imagine if the smartest and most innovative people could come together to fight Zika quickly and easily.
     imagine3: Imagine if the epidemiologist, the computer scientist, the urban planner and those with diverse know how could talk to one another to design actionable solutions to the root causes of mosquito borne illness.
-  view_the_playbook: View the Playbook 
+  view_the_playbook: View the Playbook
   request_an_invitation: Request an Invitation
   view_the_schedule: View the Schedule
   methodology: Methodology
@@ -38,10 +38,10 @@ index:
 about:
   h1: About
   content: >
-    <p>Global and complex public health emergencies, such as Zika, Dengue and Chikungunya, threaten public health and well-being, risk disruption to global and regional trade and economic stability, and cause widespread uncertainty and concern.</p>
-    <p>In response, the Governance Lab and the Inter-American Development Bank in partnership with the Governments of the <strong>City of Rio de Janeiro</strong>, <strong>Argentina</strong>, <strong>Colombia</strong> and <strong>Panama</strong>, are hosting a series of online conferences taking place August-October 2016.</p>
-    <p>Instead of a handful of people meeting once at great expense in a conference room, we will use the Internet to mobilize and curate diverse and distributed expertise -- both credentialed know-how and experiential wisdom -- to identify, design and iterate upon implementable ideas that governments can use.<p>
-    <p>The goal? Bring the best thinking to bear and translate good ideas into actionable proposals backed by evidence.</p>
+    <p>Cotopaxi Volcano lies 30 miles away from Quito. In August 2015, the volcano began spewing ash after 72 years of being in an inactive stage. Cotopaxi’s awakening is no good news. Currently, the scale of the challenge is overwhelming. The magnitude of a possible eruption has surprised citizens, local and national authorities alike.</p>
+    <p>The most preoccupying factor related to Cotopaxi’s possible eruption is the fact that lava would melt the volcano’s glaciers, creating lahars (masses of hot and cold rock) that would increase the water flow in rivers to dangerous levels, causing massive mud floods. If the eruption occurs, nearby communities will only have 30-40 minutes to find shelter. The immediate challenge is that there are 120,000 people in the valley beneath the volcano who will have little time to evacuate the risk areas; especially those areas in the direct paths of the incoming lahars. More than 325,000 people in total will be at near-term risk.</p>
+    <p>It is under such circumstances that Linq, the innovation lab at the Municipality of Quito, with the active support of The GovLab, turned to people with relevant know-how and expertise related to disaster preparation and, most importantly, people with good, innovative and techie ideas on how to mitigate potential risks. The collaboration scheme involved crowdsourcing wisely, not necessarily widely.</p>
+    <p>In order to crowdsource expertise, a set of meetings were carried out with the intention to better define and understand the nature of the problem; help connect those people with relevant experience and know how to city officials to help Quito better manage the impending disaster; identify innovative and practical ways, especially using new technology, to tackle the challenge at hand; and, last but not least, find out ways to do things differently and potentially save lives by optimizing resources and financing solutions for the ow for money to be spent on what matters most.</p>
   contact: If you have any questions, please email
   button: Download a brief description of the project
 map:
@@ -59,6 +59,6 @@ map:
     organization: Organization
 footer:
   text: In collaboration with
-  copyright: 
+  copyright:
     pre-link: This work is licensed under a
     post-link: Creative Commons Attribution-ShareAlike 4.0 International License
