@@ -1,9 +1,0 @@
-.DS_Store
-/public
-/support
-/.publish
-/node_modules
-/support
-.jekyll-metadata
-.sass-cache
-/_site
