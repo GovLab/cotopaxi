@@ -28,7 +28,7 @@ layout: default
         <h1>{{topic.title}}</h1>
         <p>{{topic.short_description}}</p>
         {% if topic.conference.is_active and topic.conference.is_active_info %}
-        <p><a href="'/' | append: topic.slug | append: '.html' | relative_url}}" class="button button--theme-color">MÁS INFORMACIÓN</a></p> <!-- More Information -->
+        <p><a href="'/' | append: topic.slug | append: '.html' | absolute_url}}" class="button button--theme-color">MÁS INFORMACIÓN</a></p> <!-- More Information -->
         {% elsif topic.conference.is_active and topic.conference.is_active_info %} <!-- not -->
         <p><a href="javascript: void(0)" class="button button--disabled">PRONTO MÁS INFORMACIÓN</a></p> <!-- More Information Coming Soon -->
         {% endif %}
@@ -43,12 +43,12 @@ layout: default
     {% endfor %}
     {% for topic in site.data.cotopaxi_topics %}
     {% if topic.is_active and topic.conference.is_active == false %}
-      <div class="large-6 small-12 column topic" style="background-image: url({{'/images/topics/resized/' | append: topic.image | relative_url }})">
+      <div class="large-6 small-12 column topic" style="background-image: url({{'/images/topics/resized/' | append: topic.image | absolute_url }})">
 
 
         <h1>{{topic.title}}</h1>
         <p>{{topic.short_description}}</p>
-        <p><a href="{{'/' | append: topic.slug | append: '.html' | relative_url}}" class="button button--theme-color">More Information</a></p>
+        <p><a href="{{'/' | append: topic.slug | append: '.html' | absolute_url}}" class="button button--theme-color">More Information</a></p>
         <div class="topic__date topic__date-past">
           <h6>This conference took place on</h6>
           <span class="topic__month">{{ topic.conference.date | date: "%b"}}</span>

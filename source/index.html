@@ -9,7 +9,7 @@ custom_body: homepage
     <section class="top-section top-section--white">
       <div class="row expanded">
         <div class="column large-12 site-logo__wrapper">
-          <a href="{{'/index.html' | relative_url}}"><img class="site-logo" src="{{'/images/cotopaxi-logo.png' | relative_url}}" alt="Smarter Crowdsourcing | Cotopaxi Logo"></a>
+          <a href="{{'/index.html' | absolute_url }}"><img class="site-logo" src="{{'/images/cotopaxi-logo.png' | absolute_url}}" alt="Smarter Crowdsourcing | Cotopaxi Logo"></a>
         </div>
       </div>
       <div class="row expanded align-center">
@@ -45,8 +45,8 @@ custom_body: homepage
         <br>
           <div class="side-buttons">
             <div class="text-centered"><a href='https://docs.google.com/document/d/1AZNHKnjVlXpqRU5vkvz3PTKz0bS5oII8i_hu04QmoEw/edit#heading=h.qgmunizwlw4' class='button button--accent-color'>{% t index.view_the_playbook %}</a></div>
-            <div class="text-centered"><a href="{{'/files/zika-one-pager-oct2016.pdf' | relative_url}}" class='button button--accent-color' download>{% t index.project_description %}</a></div>
-            <div class="text-centered"><a href="{{'/files/metodologia.pdf' | relative_url}}" class='button button--accent-color' download>{% t index.methodology %}</a></div>
+            <div class="text-centered"><a href="{{'/files/zika-one-pager-oct2016.pdf' | absolute_url}}" class='button button--accent-color' download>{% t index.project_description %}</a></div>
+            <div class="text-centered"><a href="{{'/files/metodologia.pdf' | absolute_url}}" class='button button--accent-color' download>{% t index.methodology %}</a></div>
           </div>
         </div>
       </div>
@@ -54,12 +54,12 @@ custom_body: homepage
     </section> -->
 
     <section>
-    <a href="{{'/map.html' | relative_url}}" class="divider explore-map"><h5>{% t index.explore_the_expert_map %}</h5></a>
+    <!-- <a href="{{'/map.html' | absolute_url}}" class="divider explore-map"><h5>{% t index.explore_the_expert_map %}</h5></a> -->
     <div class="main-buttons main-buttons__map">
-        <a href="{{'/call-for-participants.html' | relative_url}}" class="button button--accent-color">Participate</a>
-        <!-- <a href="{{'/call-for-participants.html' | relative_url}}" class="button button--map button--accent-color">{% t index.participate %}</a> -->
+        <a href="{{'/call-for-participants.html' | absolute_url}}" class="button button--accent-color">Participate</a>
+        <!-- <a href="{{'/call-for-participants.html' | absolute_url}}" class="button button--map button--accent-color">{% t index.participate %}</a> -->
         <!-- <a href="./topics.html" class="button button--accent-color">Topics</a> -->
-        <a href="{{'/topics.html' | relative_url}}" class="button button--map button--accent-color">{% t global.topics %}</a>
+        <a href="{{'/topics.html' | absolute_url}}" class="button button--map button--accent-color">{% t global.topics %}</a>
     </div>
     </section>
 
@@ -117,16 +117,44 @@ custom_body: homepage
       <div class="row align-center">
         <div class="medium-10 large-9 column more-info">
           <p>A series of online sessions were held to connect the people with relevant experience and know-how to city officials to help Quito tackle the challenge at hand. The sessions were focussed on discussing innovative and practical ways, especially using new technology, to better manage the impending disaster.</p>
-          <!-- <div class="text-centered"><a href="{{'/topics.html' | relative_url}}" class='button button--accent-color'>{% t index.view_the_schedule %}</a></div> -->
+          <!-- <div class="text-centered"><a href="{{'/topics.html' | absolute_url}}" class='button button--accent-color'>{% t index.view_the_schedule %}</a></div> -->
         </div>
       </div>
     </div>
     </section>
+
+    <section class="divider divider--theme-color">
+      <!-- <h1>More Information</h1> -->
+      <h1>Resources</h1>
+    </section>
+    <section class="page-section">
+      <div class="row align-center">
+        <div class="medium-10 large-9 column more-info">
+          <ul class="resources-list">
+            <li>
+              <a class="resource-link" href="https://medium.com/@bethnoveck/crowdsourcing-disaster-management-expertise-for-quito-7a3162940a3b">https://medium.com/@bethnoveck/crowdsourcing-disaster-management-expertise-for-quito-7a3162940a3b</a>
+            </li>
+            <li>
+              <a class="resource-link" href="http://www.disasternet.co/blog/2015/9/25/nyu-govlab-is-crowdsourcing-innovation-for-the-cotopaxi-volcano-eruption">http://www.disasternet.co/blog/2015/9/25/nyu-govlab-is-crowdsourcing-innovation-for-the-cotopaxi-volcano-eruption</a>
+            </li>
+            <li>
+              <a class="resource-link" href="http://citiscope.org/story/2016/cotopaxi-awakens-quito-and-its-suburbs-get-ready-volcanic-eruption">http://citiscope.org/story/2016/cotopaxi-awakens-quito-and-its-suburbs-get-ready-volcanic-eruption</a>
+            </li>
+            <li>
+              <a class="resource-link" href="http://thegovlab.org/crowdsourcing-innovations-in-disaster-management-for-cotopaxi/">http://thegovlab.org/crowdsourcing-innovations-in-disaster-management-for-cotopaxi/</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    </section>
+
+
     <!-- <section class="page-section page-section--zebra-dark">
       <div class="row align-center">
         <div class="medium-10 large-9 column more-info">
           <p>{% t index.request_an_invitation_text %}</p>
-          <div class="text-centered"><a href="{{'/call-for-participants.html' | relative_url}}" class='button button--accent-color'>{% t index.request_an_invitation %}</a></div>
+          <div class="text-centered"><a href="{{'/call-for-participants.html' | absolute_url}}" class='button button--accent-color'>{% t index.request_an_invitation %}</a></div>
         </div>
       </div>
     </section> -->
