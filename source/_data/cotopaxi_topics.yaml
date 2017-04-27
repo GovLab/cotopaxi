@@ -1,14 +1,14 @@
 ---
 # Topics
 
-- title: Testing Title
-  slug: testing-title
-  conference_slug: testing-title-conference
+- title: Coordination of Communication
+  slug:
+  conference_slug:
   id: 00
   is_active: true
   image: assessing-public-awareness.jpg
   short_description: >
-    ¿Cuáles son los medios más efectivos para suscitar la comprensión pública de las enfermedades transmitidas por mosquitos? ¿Cómo usar estos hallazgos para apoyar el diseño de campañas orientadas a mejorar la concientización pública?
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
   focus:
   topic_description_summary:
   problem_description_summary:
@@ -18,16 +18,470 @@
   conference:
     is_active: false
     is_active_info:
-    date: August 31, 2016 #31 DE AGOSTO DE 2016
-    time: 10-12 HRS EST
+    date: Thursday, October 1 #31 DE AGOSTO DE 2016
+    time: 11am - 12.30pm EST
     english_document_link:
     supporting_participants:
-      - name: David Broniatowski
-        title: Assistant Professor, School of Engineering and Applied Science
-        affiliation: The George Washington University, US
+      - name:
+        title:
+        affiliation:
         twitter_url:
     partner_participants:
-      - name: The Governance Lab, NYU
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Evacuation Planning
+  slug:
+  conference_slug:
+  id: 00
+  is_active: true
+  image: assessing-public-awareness.jpg
+  short_description: >
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date: Monday, October 5 #31 DE AGOSTO DE 2016
+    time: 11am - 12.30pm EST
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Cost Effective Human and Animal Shelters
+  slug:
+  conference_slug:
+  id: 00
+  is_active: true
+  image: assessing-public-awareness.jpg
+  short_description: >
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date: Thursday,  October 8 #31 DE AGOSTO DE 2016
+    time: 11am - 12.30pm EST
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Citizen Sensing and Citizen Science
+  slug:
+  conference_slug:
+  id: 00
+  is_active: true
+  image: assessing-public-awareness.jpg
+  short_description: >
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date: Monday, October 12 #31 DE AGOSTO DE 2016
+    time: 11am - 12.30pm EST
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Protection of Vulnerable Populations
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Construction of a Skills-Based Expert Network
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Continuity of Communications Systems
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Air and Water Quality and Sanitation
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Food Safety and Cold-Chain Supply Management
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Access to Health Services
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: School Alternatives During a Disaster
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
+        people:
+          - name:
+            title:
+            affiliation:
+            twitter_url:
+    resources:
+  post_conference:
+    is_active: false
+    takeaways:
+    takeaways_link:
+    action_items:
+    resources:
+  resources:
+    - name:
+      url:
+- title: Innovative Financing for Redevelopment
+  slug:
+  conference_slug:
+  id: 00
+  is_active: false
+  image:
+  short_description: >
+  focus:
+  topic_description_summary:
+  problem_description_summary:
+  problem_description_link:
+  problem_description_link_spanish:
+  english_document_link:
+  conference:
+    is_active: false
+    is_active_info:
+    date:  #31 DE AGOSTO DE 2016
+    time:
+    english_document_link:
+    supporting_participants:
+      - name:
+        title:
+        affiliation:
+        twitter_url:
+    partner_participants:
+      - name:
         people:
           - name:
             title:
