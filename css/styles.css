@@ -261,8 +261,13 @@
 .participants .fa-twitter {
   color: #FFAA00; }
 
+.resources-list {
+  list-style: none; }
+  .resources-list li {
+    margin-bottom: 10px; }
+
 .resource-link {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-style: italic;
   font-weight: 500;
   color: #2c4758; }
