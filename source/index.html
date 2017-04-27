@@ -91,7 +91,7 @@ custom_body: homepage
 
         {% for topic in site.data.cotopaxi_topics %}
           {% if topic.is_active and topic.conference.is_active == false %} <!-- NEED TO ADD A "NOT" -->
-            <div class="large-6 small-12 column topic" style="background-image: url({{'./images/' | append: topic.image}})">
+            <div class="large-6 small-12 column topic" style="background-image: url({{'/images/' | append: topic.image | absolute_url }})">
               <h1>{{topic.title}}</h1>
               <p>{{topic.short_description}}</p>
               <p><a href="{{topic.slug }}.html" class="button button--theme-color">{% t global.more_information %}</a></p>
