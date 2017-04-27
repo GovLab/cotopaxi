@@ -9,7 +9,7 @@ layout: default
       {% case site.lang %}
       {% when "en" %}
       <h1>Topics</h1>
-      <h3>TEXT description</h3> 
+      <h3>TEXT description</h3>
       {% when "es" %}
       <h1>Temas</h1>
       <!-- <h3>HEMOS DIVIDIDO UN TEMA IMPORTANTE DE SALUD EN VARIOS PROBLEMAS MENORES QUE CONSTITUYEN LA MÁXIMA PRIORIDAD DE LOS GOBIERNOS Y SE PRESTAN A SOLUCIONES INNOVADORAS Y REALIZABLES.</h3> -->
@@ -24,7 +24,7 @@ layout: default
   <div class="row expanded">
     {% for topic in site.data.cotopaxi_topics %}
     {% if topic.is_active and topic.conference.is_active %}
-      <div class="large-6 small-12 column topic" style="background-image: url(./images/topics/resized/{{topic.image}})">
+      <div class="large-6 small-12 column topic" style="background-image: url({{'./images/' | append: topic.image}})">
         <h1>{{topic.title}}</h1>
         <p>{{topic.short_description}}</p>
         {% if topic.conference.is_active and topic.conference.is_active_info %}
@@ -43,7 +43,7 @@ layout: default
     {% endfor %}
     {% for topic in site.data.cotopaxi_topics %}
     {% if topic.is_active and topic.conference.is_active == false %}
-      <div class="large-6 small-12 column topic" style="background-image: url({{'/images/topics/resized/' | append: topic.image | absolute_url }})">
+      <div class="large-6 small-12 column topic" style="background-image: url({{'/images/' | append: topic.image | absolute_url }})">
 
 
         <h1>{{topic.title}}</h1>
