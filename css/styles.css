@@ -52,6 +52,10 @@
     color: #FFAA00;
     font-weight: 700; }
 
+.footer-partner img {
+  border: dashed;
+  border-color: transparent; }
+
 .text-centered {
   text-align: center; }
 
