@@ -48,9 +48,9 @@ layout: default
 
         <h1>{{topic.title}}</h1>
         <p>{{topic.short_description}}</p>
-        <p><a href="{{'/' | append: topic.slug | append: '.html' | absolute_url}}" class="button button--theme-color">More Information</a></p>
+<!--         <p><a href="{{'/' | append: topic.slug | append: '.html' | absolute_url}}" class="button button--theme-color">More Information</a></p> -->
         <div class="topic__date topic__date-past">
-          <h6>This conference took place on</h6>
+          <h6>Conference took place on</h6>
           <span class="topic__month">{{ topic.conference.date | date: "%b"}}</span>
           <em class="topic__day">{{ topic.conference.date | date: "%d" }}</em>
         </div>
