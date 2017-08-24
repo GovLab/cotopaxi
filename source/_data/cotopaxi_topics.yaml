@@ -18,7 +18,7 @@
   conference:
     is_active: false
     is_active_info: false
-    date: Thursday, October 1 #31 DE AGOSTO DE 2016
+    date: October 1, 2015 #31 DE AGOSTO DE 2016
     time: 11am - 12.30pm EST
     english_document_link:
     supporting_participants:
@@ -60,7 +60,7 @@
   conference:
     is_active: false
     is_active_info: false
-    date: Monday, October 5 #31 DE AGOSTO DE 2016
+    date: October 5, 2015 #31 DE AGOSTO DE 2016
     time: 11am - 12.30pm EST
     english_document_link:
     supporting_participants:
@@ -102,7 +102,7 @@
   conference:
     is_active: false
     is_active_info: false
-    date: Thursday,  October 8 #31 DE AGOSTO DE 2016
+    date: October 8, 2015 #31 DE AGOSTO DE 2016
     time: 11am - 12.30pm EST
     english_document_link:
     supporting_participants:
@@ -144,7 +144,7 @@
   conference:
     is_active: false
     is_active_info: false
-    date: Monday, October 12 #31 DE AGOSTO DE 2016
+    date: October 12, 2015 #31 DE AGOSTO DE 2016
     time: 11am - 12.30pm EST
     english_document_link:
     supporting_participants:
@@ -175,7 +175,7 @@
   id: 00
   is_active: false
   image:
-  short_description: >
+  short_description:
   focus:
   topic_description_summary:
   problem_description_summary:
@@ -216,7 +216,7 @@
   id: 00
   is_active: false
   image:
-  short_description: >
+  short_description:
   focus:
   topic_description_summary:
   problem_description_summary:
