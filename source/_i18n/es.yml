@@ -2,14 +2,15 @@ global:
   title: "Crowdsourcing Inteligente: zika"
   home: Inicio
   about: Acerca de
-  team: Equipo 
+  team: Equipo
   topics: Temas
-  recommendations: Recomendaciones 
+  recommendations: Recomendaciones
   map: Explora el Mapa
   blog: Blog
+  contact: Contact
   more_information: Mas Información
   more_information_soon: Pronto Mas Información
-  conference_took_place_on: Esta Conferencia se Realizó el 
+  conference_took_place_on: Esta Conferencia se Realizó el
   conference: Conferencia
   participate: Participa
   conference_on: Conferencia el
@@ -59,6 +60,6 @@ map:
     organization: ORGANIZACIÓN
 footer:
   text: EN COLABORACIÓN CON
-  copyright: 
+  copyright:
     pre-link: Este trabajo está autorizado por la
     post-link: Licencia Internacional Creative Commons Attribution-ShareAlike 4.0
